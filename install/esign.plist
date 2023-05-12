@@ -1,43 +1,47 @@
+
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd …">
 <plist version="1.0">
 <dict>
-	<key>items</key>
-	<array>
-		<dict>
-			<key>assets</key>
-			<array>
-				<dict>
-					<key>kind</key>
-					<string>software-package</string>
-					<key>url</key>
-					<string>https://up-ipa.com/uploads/up-ipa.comESign-4-8-1-1681230371_a86f8.ipa</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>display-image</string>
-					<key>url</key>
-					<string>https://i.ibb.co/51HDZKB/FDC54-B6-D-BC73-43-E2-8848-B792-D5-DE4-B26.jpg</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>full-size-image</string>
-					<key>url</key>
-					<string>https://i.ibb.co/51HDZKB/FDC54-B6-D-BC73-43-E2-8848-B792-D5-DE4-B26.jpg</string>
-				</dict>
-			</array>
-			<key>metadata</key>
-			<dict>
-				<key>bundle-identifier</key>
-				<string>p3.xyz.yyyue.esign</string>
-				<key>bundle-version</key>
-				<string>1.0</string>
-				<key>kind</key>
-				<string>software</string>
-				<key>title</key>
-				<string>Esign</string>
-			</dict>
-		</dict>
-	</array>
+<key>items</key>
+<array>
+<dict>
+<key>assets</key>
+<array>
+<dict>
+<key>kind</key>
+<string>software-package</string>
+<key>url</key>
+<string>https://archive.org/download/ESign_4.8.1_1682966542</string>
+</dict>
+<dict>
+<key>kind</key>
+<string>display-image</string>
+<key>url</key>
+<string>https://i.ibb.co/VCTDQdX/311-A114-A-8007-4-C13-BF62-D6-DBBA2-DDC47.jpg</string>
+</dict>
+<dict>
+<key>kind</key>
+<string>full-size-image</string>
+<key>url</key>
+<string>https://i.ibb.co/VCTDQdX/311-A114-A-8007-4-C13-BF62-D6-DBBA2-DDC47.jpg</string>
+</dict>
+</array>
+<key>metadata</key>
+<dict>
+<key>bundle-identifier</key>
+<string>p3.xyz.yyyue.esign</string>
+<key>bundle-version</key>
+<string>4.8.1</string>
+<key>kind</key>
+<string>software</string>
+<key>title</key>
+<string>
+✔ ashte mzere ✔
+esign
+</string>
+</dict> 
+</dict>
+</array>
 </dict>
 </plist>
