@@ -87,7 +87,10 @@ routes = [
     path: '/pages/:id',
     url: './pages/{{id}}',
   },
-
+    {
+    path: '/car parking',
+    url: './pages/car parking.php',
+  },
   {
     path: '/theming',
     componentUrl: './pages/theme.php',
