@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>PPSSPP</title>
+  <title>car parking</title>
 </head>
 <body>
   <div class="page">
@@ -12,7 +12,7 @@
           "ios-only">Back</span></a>
         </div>
         <div class="title">
-          PPSSPP
+          car parking
         </div>
         <div class="right">
           <a href="javascript:window.location.reload(true)" class=
@@ -26,12 +26,12 @@
           <li class="media-item">
             <div class="item-content">
               <div class="item-media"><img src=
-              "./img/ppsspp.png"
+              "./img/car parking.png"
               class="appicon elevation-5 animated zoomIn"></div>
               <div class="item-inner">
                 <div class="item-title-row">
                   <div class="item-title">
-                    PPSSPP
+                    car parking
                   </div><a href=
                   "itms-services://?action=download-manifest&url=https://alone-ios.netlify.app/install/ppsspp.plist"
                   class=
@@ -48,7 +48,7 @@
         </ul>
       </div>
       <div class="block-title">
-        About PPSSPP
+        car parking
       </div>
       <div class="block block-strong inset elevation-12">
         <pre>لەڕێگای ئەم ئەپەوە دەتوانی زۆربەی
