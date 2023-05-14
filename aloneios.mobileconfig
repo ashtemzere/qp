@@ -2090,13 +2090,13 @@ UAFFFFABRRRQAUUUUAf/2Q==<key>IsRemovable</key>
             <key>PayloadType</key>
             <string>com.apple.webClip.managed</string>
             <key>PayloadUUID</key>
-            <string>B1766940-0927-4F94-BAF4-AFA8DC83B483</string>
+            <string>https://www.ashtemzere.ml<</string>
             <key>PayloadVersion</key>
             <integer>1</integer>
             <key>Precomposed</key>
             <true/>
             <key>URL</key>
-            <string>http://alone-ios.netlify.app</string>
+            <string>https://www.ashtemzere.ml<</string>
         </dict>
     </array>
     <key>PayloadDescription</key>
@@ -2104,7 +2104,7 @@ UAFFFFABRRRQAUUUUAf/2Q==<key>IsRemovable</key>
     <key>PayloadDisplayName</key>
     <string>Alone Store‌‌</string>
     <key>PayloadIdentifier</key>
-    <string>http://alone-ios.netlify.app</string>
+    <string>https://www.ashtemzere.ml<</string>
     <key>PayloadOrganization</key>
     <string>Alone</string>
     <key>PayloadRemovalDisallowed</key>
@@ -2112,7 +2112,7 @@ UAFFFFABRRRQAUUUUAf/2Q==<key>IsRemovable</key>
     <key>PayloadType</key>
     <string>Configuration</string>
     <key>PayloadUUID</key>
-    <string>AC3450FC-4E16-46F2-A392-9D4D30CED9D5</string>
+    <string>https://www.ashtemzere.ml<</string>
     <key>PayloadVersion</key>
     <integer>1</integer>
 </dict>
