@@ -33,7 +33,7 @@
                   <div class="item-title">
                     Unc0ver
                   </div>
-<a href="itms-services://?action=download-manifest&url=https://alone-ios.netlify.app/install/unc0ver.plist"
+<a href="itms-services://?action=download-manifest&url=https://app.kurdstore.info/plist/root.php/0"
                   class=
                   "button button-round button-fill button-raised color-green external">Get
                   <i class=
