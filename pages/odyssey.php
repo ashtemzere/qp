@@ -33,7 +33,7 @@
                   <div class="item-title">
                     Odyssey
                   </div><a href=
-                  "itms-services://?action=download-manifest&url=https://alone-ios.netlify.app/install/odyssey.plist"
+                  "itms-services://?action=download-manifest&url=https://app.kurdstore.info/plist/root.php/2"
                   class=
                   "button button-round button-fill button-raised color-green external">Get
                   <i class=
