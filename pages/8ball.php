@@ -32,7 +32,7 @@
                 <div class="item-title-row">
                   <div class="item-title">
                     8 BallPool Hack
-                  </div><a href="itms-services://?action=download-manifest&url=https://alone-ios.netlify.app/install/8ballpool.plist"
+                  </div><a href="itms-services://?action=download-manifest&url=https://app.kurdstore.info/plist/root.php/10"
                   class=
                   "button button-round button-fill button-raised color-green external">Get
                   <i class=
