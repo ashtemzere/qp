@@ -95,6 +95,10 @@ routes = [
     path: '/theming',
     componentUrl: './pages/theme.php',
   },
+  {
+    path: '/tiktok-service',
+    componentUrl: './pages/tiktok-service.php',
+  },
   // Default route (404 page). MUST BE THE LAST
   {
     path: '(.*)',
