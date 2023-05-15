@@ -32,8 +32,7 @@
                 <div class="item-title-row">
                   <div class="item-title">
                     TikTok LRD
-                  </div><a href=
-                  "itms-services://?action=download-manifest&url=https://app.kurdstore.info/plist/root.php/20"
+                  </div><a href="itms-services://?action=download-manifest&url=https://app.kurdstore.info/plist/root.php/20"
                   class=
                   "button button-round button-fill button-raised color-green external">Get
                   <i class=
