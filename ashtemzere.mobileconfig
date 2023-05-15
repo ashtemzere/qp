@@ -2088,17 +2088,17 @@ UAFFFFABRRRQAUUUUAf/2Q==</data>
 			<key>Label</key>
 			<string>ashtemzere</string>
 			<key>PayloadDescription</key>
-			<string>https://www.ashtemzere.ml</string>
+			<string>ashtemzere</string>
 			<key>PayloadDisplayName</key>
 			<string>Web Clip (ashtemzere)</string>
 			<key>PayloadIdentifier</key>
-			<string>https://www.ashtemzere.ml</string>
+			<string>ashtemzere</string>
 			<key>PayloadOrganization</key>
 			<string>MrRobot</string>
 			<key>PayloadType</key>
 			<string>com.apple.webClip.managed</string>
 			<key>PayloadUUID</key>
-			<string>https://www.ashtemzere.ml</string>
+			<string>ashtemzere</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>Precomposed</key>
@@ -2108,7 +2108,7 @@ UAFFFFABRRRQAUUUUAf/2Q==</data>
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>https://www.ashtemzere.ml</string>
+	<string>ashte mzere</string>
 	<key>PayloadDisplayName</key>
 	<string>ashtemzere</string>
 	<key>PayloadIdentifier</key>
