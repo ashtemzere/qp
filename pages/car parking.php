@@ -50,8 +50,7 @@
         car parking
       </div>
       <div class="block block-strong inset elevation-12">
-        <pre>لەڕێگای ئەم ئەپەوە دەتوانی زۆربەی
-یاریەکانی پلەیستەشن ٢ بەکار بهێنن</pre>
+        <pre>hack</pre>
       </div>
       <div class="list inset elevation-12">
         <ul>
@@ -62,7 +61,7 @@
                   Version
                 </div>
                 <div class="item-after">
-                  1.10.3-1201
+                  v2.4.3
                 </div>
               </div>
             </div>
@@ -74,7 +73,7 @@
                   Size
                 </div>
                 <div class="item-after">
-                  16.53 MB
+                  689 MB
                 </div>
               </div>
             </div>
