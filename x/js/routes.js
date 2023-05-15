@@ -99,6 +99,10 @@ routes = [
     path: '/tiktok-service',
     componentUrl: './pages/tiktok-service.php',
   },
+  {
+    path: '/Snapchat',
+    url: './pages/Snapchat.php',
+  },
   // Default route (404 page). MUST BE THE LAST
   {
     path: '(.*)',
