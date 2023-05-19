@@ -103,6 +103,10 @@ routes = [
     path: '/Snapchat',
     url: './pages/Snapchat.php',
   },
+  {
+    path: '/wallcraft',
+    url: './pages/wallcraft.php',
+  },
   // Default route (404 page). MUST BE THE LAST
   {
     path: '(.*)',
