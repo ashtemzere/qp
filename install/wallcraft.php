@@ -12,7 +12,7 @@
 <key>kind</key>
 <string>software-package</string>
 <key>url</key>
-<string>https://archive.org/download/wallcraft-as-mobile/Wallcraft_as_mobile.ipa</string>
+<string>https://ashtemzere.ml/download/wallcraft-as-mobile/Wallcraft_as_mobile.ipa</string>
 </dict>
 <dict>
 <key>kind</key>
