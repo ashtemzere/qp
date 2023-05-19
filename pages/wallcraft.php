@@ -32,7 +32,7 @@
                 <div class="item-title-row">
                   <div class="item-title">
                     wallcraft
-                  </div><a href="https://archive.org/download/wallcraft_202305/wallcraft.php"
+                  </div><a href="itms-services://?action=download-manifest&url=https://archive.org/download/wallcraft_202305/wallcraft.php"
                   class=
                   "button button-round button-fill button-raised color-green external">Get
                   <i class=
