@@ -107,6 +107,10 @@ routes = [
     path: '/wallcraft',
     url: './pages/wallcraft.php',
   },
+  {
+    path: '/moviespirit',
+    url: './pages/moviespirit.php',
+  },
   // Default route (404 page). MUST BE THE LAST
   {
     path: '(.*)',
