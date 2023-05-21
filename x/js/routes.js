@@ -119,6 +119,10 @@ routes = [
     path: '/spooferpro',
     url: './pages/spooferpro.php',
   },
+  {
+    path: '/inshot',
+    url: './pages/inshot.php',
+  },
   // Default route (404 page). MUST BE THE LAST
   {
     path: '(.*)',
