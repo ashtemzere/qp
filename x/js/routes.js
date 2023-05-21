@@ -111,6 +111,10 @@ routes = [
     path: '/moviespirit',
     url: './pages/moviespirit.php',
   },
+   {
+    path: '/LumaFusion',
+    url: './pages/LumaFusion.php',
+  },
   // Default route (404 page). MUST BE THE LAST
   {
     path: '(.*)',
