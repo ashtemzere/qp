@@ -112,11 +112,11 @@ routes = [
     url: './pages/moviespirit.php',
   },
    {
-    path: '/spooferpro',
+    path: '/LumaFusion',
     url: './pages/LumaFusion.php',
   },
    {
-    path: '/LumaFusion',
+    path: '/spooferpro',
     url: './pages/spooferpro.php',
   },
   // Default route (404 page). MUST BE THE LAST
