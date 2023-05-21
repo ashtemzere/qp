@@ -26,13 +26,13 @@
           <li class="media-item">
             <div class="item-content">
               <div class="item-media"><img src=
-              "./imgg/wallcraft.png"
+              ".imgg/moviespirit.png"
               class="appicon elevation-5 animated zoomIn"></div>
               <div class="item-inner">
                 <div class="item-title-row">
                   <div class="item-title">
-                    wallcraft
-                  </div><a href="itms-services://?action=download-manifest&url=https://archive.org/download/wallcraft_202305/wallcraft.php"
+                    moviespirit
+                  </div><a href="itms-services://?action=download-manifest&url=https://app.kurdstore.info/plist/root.php/22"
                   class=
                   "button button-round button-fill button-raised color-green external">Get
                   <i class=
@@ -47,7 +47,7 @@
         </ul>
       </div>
       <div class="block-title">
-        wallcraft
+        moviespirit
       </div>
       <div class="block block-strong inset elevation-12">
         <pre>hack</pre>
@@ -61,7 +61,7 @@
                   Version
                 </div>
                 <div class="item-after">
-                  v3.8
+                  v9.39
                 </div>
               </div>
             </div>
@@ -73,7 +73,7 @@
                   Size
                 </div>
                 <div class="item-after">
-                  89.09 MB
+                  143.00 MB
                 </div>
               </div>
             </div>
