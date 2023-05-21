@@ -25,7 +25,8 @@
         <ul>
           <li class="media-item">
             <div class="item-content">
-              <div class="item-media"><img src="./imgg/moviespirit.png"
+              <div class="item-media"><img src= 
+                 "./imgg/moviespirit.png"
               class="appicon elevation-5 animated zoomIn"></div>
               <div class="item-inner">
                 <div class="item-title-row">
