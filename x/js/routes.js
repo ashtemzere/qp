@@ -123,6 +123,10 @@ routes = [
     path: '/inshot',
     url: './pages/inshot.php',
   },
+   {
+    path: '/StumbleGuys',
+    url: './pages/StumbleGuys.php',
+  },
   // Default route (404 page). MUST BE THE LAST
   {
     path: '(.*)',
