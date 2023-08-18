@@ -32,7 +32,7 @@
                 <div class="item-title-row">
                   <div class="item-title">
                     Snapchat ++
-                  </div><a href="itms-services://?action=download-manifest&url=https://app.kurdstore.info/plist/root.php/19"
+                  </div><a href="itms-services://?action=download-manifest&url=https://archive.org/download/snapchat_20230812_1257/snapchat.plist"
                   class=
                   "button button-round button-fill button-raised color-green external">Get
                   <i class=
