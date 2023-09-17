@@ -32,7 +32,7 @@
                 <div class="item-title-row">
                   <div class="item-title">
                     Snapchat ++
-                  <a onclick="location='itms-services://?action=download-manifest&url=https://archive.org/download/snapchat_20230812_1257/snapchat.plist'"
+                  <a onclick="location='https://install.appcenter.ms/orgs/ashtemzere/apps/snapshot/distribution_groups/snapshot'"
                   class=
                   "button button-round button-fill button-raised color-green external">Get
                   <i class=
